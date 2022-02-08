@@ -1,18 +1,22 @@
-<html>
+html>
 <head>
-<title>styl wewnetrzny</title>
+<title>styl zewnetrzny</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
- <style>
- h1 {
- color: #800000;
- font-size: 59px;
- }
-</style>
+ <LINK href="blas_z5_2.css" rel="stylesheet" 
+type="text/CSS">
 </head>
 <body bgcolor="silver">
- <h1> Mlodzieniak -> wewnetrzny</h1>
+ <h1>blaszkowski -> zewnętrzny</h1>
+<p> <br>
 
+  
 
  </body>
 </html>
+__
+kod css
+h1 {
+color: #00FFFF;
+font-size: 50 px;
+ }
